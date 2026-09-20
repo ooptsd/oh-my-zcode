@@ -1,0 +1,7 @@
+# OMC runtime state (regenerated on each session)
+.omc/
+
+# OS / editor noise
+.DS_Store
+*.swp
+*~

@@ -1,0 +1,21 @@
+{
+  "name": "omz-plugins",
+  "description": "ZCode-native multi-agent orchestration — intelligent model routing across agents and skills",
+  "owner": {
+    "name": "ooptsd",
+    "email": "lizhy.gis@gmail.com",
+    "url": "https://github.com/ooptsd/oh-my-zcode"
+  },
+  "plugins": [
+    {
+      "name": "omz",
+      "description": "Multi-agent orchestration with intelligent model routing across specialized agents and skills",
+      "version": "5.4.0",
+      "source": "https://github.com/ooptsd/oh-my-zcode.git",
+      "category": "productivity",
+      "tags": ["multi-agent", "orchestration", "delegation", "todo-management", "team"],
+      "strict": true
+    }
+  ],
+  "version": "5.4.0"
+}

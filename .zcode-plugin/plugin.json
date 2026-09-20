@@ -1,0 +1,17 @@
+{
+  "name": "omz",
+  "displayName": "Oh My ZCode",
+  "version": "5.4.0",
+  "description": "Multi-agent orchestration with intelligent model routing across specialized agents and skills",
+  "author": {
+    "name": "ooptsd",
+    "url": "https://github.com/ooptsd/oh-my-zcode"
+  },
+  "homepage": "https://github.com/ooptsd/oh-my-zcode",
+  "repository": "https://github.com/ooptsd/oh-my-zcode",
+  "license": "MIT",
+  "keywords": ["zcode", "plugin", "multi-agent", "orchestration", "automation"],
+  "commands": "./commands/",
+  "skills": "./skills/",
+  "agents": "./agents/"
+}
